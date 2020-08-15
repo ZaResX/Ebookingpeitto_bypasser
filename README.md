@@ -13,4 +13,4 @@ _________________
 >*Jos tämä ei toimi sinulle pistäkää meille vieti tästsä!*
 https://www.instagram.com/fimar_x/
 
-**KIITOS**
+**ᴋɪɪᴛᴏs**
