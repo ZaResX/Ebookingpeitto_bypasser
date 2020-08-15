@@ -7,6 +7,6 @@ _________________
 _________________
 >Miten käytetään?
 1. Lataa [Ebookpietto taskkill](https://raw.githubusercontent.com/ZaResX/Ebookingpeitto_bypasser/master/Ebookpietto%20taskkill.bat) painamalla tästä!
-2. Avaa Ebookpietto taskkill.exe
+2. Avaa Ebookpietto taskkill.bat
 3. Olet valmis!
 _________________
