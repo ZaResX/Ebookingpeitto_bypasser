@@ -1,5 +1,5 @@
 # Ebookingpeitto Bypasser
->*Ebookpeitto = gay* |*destroy the timer my son!*
+>*Ebookpeitto = gay* | *destroy the timer my son!*
 _________________
 **Tämä täskkiller on tehty Vantaa, Myyrmäen kirjastossa. ©**
 >Ebook peitto antaa sinulle 30 minuutin käyttö aikaa. Nytten pystyt käyttämään konetta miten huvittaa ja miten pitkälle haluat! 
