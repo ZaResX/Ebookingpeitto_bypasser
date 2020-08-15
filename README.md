@@ -6,7 +6,7 @@ _________________
 >- **Muistathan vaan sulkea konetta ennen kun lähdet koneesta ettei tätä patchätä!**
 _________________
 >Miten käytetään?
-1. Lataa [Ebookpietto taskkill]https://raw.githubusercontent.com/ZaResX/Ebookingpeitto_bypasser/master/Ebookpietto%20taskkill.bat) painamalla tästä!
+1. Lataa [Ebookpietto taskkill](https://raw.githubusercontent.com/ZaResX/Ebookingpeitto_bypasser/master/Ebookpietto%20taskkill.bat) painamalla tästä!
 2. Avaa Ebookpietto taskkill.exe
 3. Olet valmis!
 _________________
