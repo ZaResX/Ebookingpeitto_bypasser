@@ -10,7 +10,7 @@ _________________
 2. Avaa `Ebookpietto taskkill.bat` ja paina `suprita`.
 3. Olet valmis!
 _________________
->*Jos tämä ei toimi sinulle pistäkää meille vieti tästsä!*
+>*Jos tämä ei toimi sinulle pistäkää meille viesti tästsä!*
 https://www.instagram.com/fimar_x/
 
 **ᴋɪɪᴛᴏs**
